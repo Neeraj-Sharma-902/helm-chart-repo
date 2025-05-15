@@ -1,4 +1,4 @@
 # helm-chart-repo
 Repository contains helm charts
 
-# My Gihub Repo for helm charts
+# My Github Repo for helm charts
